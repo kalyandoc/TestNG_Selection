@@ -7,7 +7,7 @@ accessKey: YOUR_ACCESS_KEY
 framework: testng
 
 # Project settings
-projectName: TestNG Automation Framework
+projectName: TestNG Automation Kalyan1
 buildName: TestNG Build
 sessionName: TestNG Test Session
 
@@ -48,3 +48,4 @@ localOptions:
 # Advanced options
 interactiveDebugging: false
 idleTimeout: 300  # Session timeout in seconds
+

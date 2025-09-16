@@ -10,6 +10,7 @@ import org.slf4j.LoggerFactory;
  */
 public class DashboardPage extends BasePage {
     
+    
     private static final Logger logger = LoggerFactory.getLogger(DashboardPage.class);
     
     // Page Elements
